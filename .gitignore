@@ -1,0 +1,12 @@
+node_modules/
+
+sessions
+
+agent/sessions/
+agent/boletia/
+skills/
+
+settings.json
+extenssions/web-search/node_modules
+
+bin/

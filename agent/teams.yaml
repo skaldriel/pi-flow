@@ -1,0 +1,54 @@
+blt-plan:
+  - outline
+  - linear
+  - architect-frontend
+  - architect
+  - spec-expert
+
+tdd:
+  - starter
+  - context-analyst
+  - technical-architect
+  - test-builder
+  - polisher
+  - tech-writter
+
+simple:
+  - starter
+  - context-analyst
+  - technical-architect
+  - polisher
+  - tech-writter
+
+full:
+  - scout
+  - planner
+  - builder
+  - reviewer
+  - documenter
+  - red-team
+
+plan-build:
+  - planner
+  - builder
+  - reviewer
+
+info:
+  - scout
+  - documenter
+  - reviewer
+
+react:
+  - interpreter-expert
+  - material-ui-expert
+  - project-scanner-expert
+  - react-pattern-expert
+
+pi-pi:
+  - ext-expert
+  - theme-expert
+  - skill-expert
+  - config-expert
+  - tui-expert
+  - prompt-expert
+  - agent-expert
