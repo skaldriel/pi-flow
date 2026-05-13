@@ -43,6 +43,10 @@ react:
   - material-ui-expert
   - project-scanner-expert
   - react-pattern-expert
+  - developer
+
+e2e:
+  - playwright-e2e
 
 pi-pi:
   - ext-expert

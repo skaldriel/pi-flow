@@ -75,6 +75,12 @@ ext-session-replay:
 ext-theme-cycler:
     pi -e extensions/theme-cycler.ts -e extensions/minimal.ts
 
+#browser
+
+# 17. Browser agent: headed Brave/Chromium automation with Playwright (navigate, click, type, scrape)
+ext-browser-agent:
+    pi -e .pi/flow-ext/browser-agent
+
 # utils
 
 # Open pi with one or more stacked extensions in a new terminal: just open minimal tool-counter
@@ -105,3 +111,4 @@ all:
     just open damage-control minimal theme-cycler
     just open agent-chain theme-cycler
     just open pi-pi theme-cycler
+    just open browser-agent
